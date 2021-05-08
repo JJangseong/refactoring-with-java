@@ -18,7 +18,7 @@ package com.refactoring;
 */
 public class Main {
     public static void main(String[] args) {
-        int result = Calculator.sum(",1,1");
+        int result = Calculator.sum("1,1,2,3,4,1,");
         System.out.println(result);
     }
 }

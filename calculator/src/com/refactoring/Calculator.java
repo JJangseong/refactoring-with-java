@@ -1,19 +1,11 @@
 package com.refactoring;
 
+import java.util.Arrays;
+
 public class Calculator {
     public static int sum(String str) {
-        int result = 0;
-
         if(isBlank(str)) return 0;
-
-        for(String num : stringToArray(str)) {
-            if(!num.equals("")) {
-                int numToInt = Integer.parseInt(num);
-                result += numToInt;
-            }
-        }
-
-        return result;
+        return sumByStringArray(stringToArray(str));
     }
 
     private static Boolean isBlank(String str) {
@@ -21,7 +13,17 @@ public class Calculator {
     }
 
     private static String[] stringToArray(String str) {
-        str = str.replaceAll(" ", "");
-        return str.split(",");
+        return removeBlank(str).split(",");
+    }
+
+    private static String removeBlank(String str) {
+        return str.replaceAll(" ", "");
+    }
+
+    private static Integer sumByStringArray(String[] str) {
+        return Arrays.stream(str)
+                .filter(s -> !isBlank(s))
+                .map(Integer::parseInt)
+                .reduce(0, Integer::sum);
     }
 }
