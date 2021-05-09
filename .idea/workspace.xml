@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> step-03
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +34,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.refactoring.Main" />
       <module name="refactoring-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.refactoring.*" />
+          <option name="PATTERN" value="com.refactoring.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,5 +95,9 @@
         </entry>
       </map>
     </option>
+<<<<<<< HEAD
+=======
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> step-03
   </component>
 </project>
