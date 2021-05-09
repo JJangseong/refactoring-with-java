@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/out/production/calculator/com/refactoring/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/out/production/calculator/com/refactoring/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/src/com/refactoring/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
