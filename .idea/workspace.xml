@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="" />
+    <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/out/production/calculator/com/refactoring/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/out/production/calculator/com/refactoring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/com/refactoring/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +40,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.refactoring.Main" />
       <module name="refactoring-with-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.refactoring.*" />
+          <option name="PATTERN" value="com.refactoring.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,5 +90,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
