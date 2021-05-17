@@ -9,8 +9,12 @@ public class Main {
 //        int result = Calculator.sum("1,2,3");
 //        System.out.println(result);
 
-        int[] arr = {3,7,13,22,23,44,9};
-        Lotto.sortition(arr);
+        int[] arr = {19,28,40,36,27,9};
+
+        for(int i=0; i<10000; i++) {
+            Lotto.sortition(arr);
+        }
+
 
     }
 }

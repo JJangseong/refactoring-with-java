@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/calculator/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/src/com/refactoring/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/lotto/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/lotto/Lotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/lotto/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/lotto/Lotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +34,14 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1sEyWF8Bbt1UKPgTBIjVjnIGunr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -90,6 +98,8 @@
       <option name="presentableId" value="Default" />
       <updated>1620452074381</updated>
       <workItem from="1620452076362" duration="4511000" />
+      <workItem from="1620826471727" duration="421000" />
+      <workItem from="1621070642338" duration="1710000" />
     </task>
     <servers />
   </component>
@@ -97,6 +107,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

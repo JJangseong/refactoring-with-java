@@ -34,7 +34,6 @@ public class Lotto {
     public static void sortition(int[] userNumbers) {
         HashSet<Integer> pcNumbers = new HashSet<>();
         int count = 0;
-        int lastNum = 0;
         boolean isBonus = false;
 
         while (pcNumbers.size() < 7) {
@@ -42,9 +41,8 @@ public class Lotto {
             pcNumbers.add(pcNumber);
         }
         Iterator interator = pcNumbers.iterator();
-        for (int i = 0; i < pcNumbers.size(); i++) {
+        for (int i = 0; i < pcNumbers.size()-1; i++) {
             int pcNum = (int) interator.next();
-            lastNum = pcNum;
             for (int j = 0; j < userNumbers.length; j++) {
                 if (pcNum == userNumbers[j]) {
                     ++count;
@@ -52,9 +50,13 @@ public class Lotto {
             }
         }
 
-        if (lastNum == userNumbers[userNumbers.length - 1]) {
-            isBonus = true;
+        interator = pcNumbers.iterator();
+        for(int i = 0; i < pcNumbers.size(); i++) {
+            if ((int) interator.next() == userNumbers[userNumbers.length - 1]) {
+                isBonus = true;
+            }
         }
+
 
         switch (count) {
             case 0:
