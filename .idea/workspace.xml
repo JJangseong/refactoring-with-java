@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/lotto/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/lotto/Lotto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/refactoring/lotto/Lotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/lotto/Lotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,7 @@
       <updated>1620452074381</updated>
       <workItem from="1620452076362" duration="4511000" />
       <workItem from="1620826471727" duration="421000" />
-      <workItem from="1621070642338" duration="1710000" />
+      <workItem from="1621070642338" duration="3861000" />
     </task>
     <servers />
   </component>
@@ -117,5 +114,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
