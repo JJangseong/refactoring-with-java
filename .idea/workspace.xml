@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d2b03381-8a3f-409e-8f60-8e0fa25ea58f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/refactoring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/ladder/Ladder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/refactoring-with-java/com/refactoring/lotto/Lotto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/refactoring-with-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/refactoring/lotto/Lotto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +50,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -69,17 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -96,7 +97,10 @@
       <updated>1620452074381</updated>
       <workItem from="1620452076362" duration="4511000" />
       <workItem from="1620826471727" duration="421000" />
-      <workItem from="1621070642338" duration="3861000" />
+      <workItem from="1621070642338" duration="5235000" />
+      <workItem from="1621572068148" duration="598000" />
+      <workItem from="1621583186391" duration="553000" />
+      <workItem from="1628415134746" duration="78000" />
     </task>
     <servers />
   </component>
@@ -114,16 +118,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/refactoring/ladder/Ladder.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
