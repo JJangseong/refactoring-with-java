@@ -23,5 +23,17 @@ public class Archer extends Character {
         this.name = name;
         this.exp  = 0;
         this.level = 1;
+        this.job = "궁수";
+    }
+
+    @Override
+    public String toString() {
+        return "Archer{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", level=" + level +
+                ", exp=" + exp +
+                ", job='" + job + '\'' +
+                '}';
     }
 }

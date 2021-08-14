@@ -1,7 +1,6 @@
-package com.example.rpggame.character;
+package com.example.rpggame.character.job;
 
-import com.example.rpggame.character.job.Swordsman;
-import com.example.rpggame.character.job.Wizard;
+import com.example.rpggame.character.CharacterService;
 
 /**
  * Created by marathoner on 2021/08/11

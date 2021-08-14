@@ -1,9 +1,9 @@
 package com.example.rpggame.command;
 
-import com.example.rpggame.character.ArcherService;
+import com.example.rpggame.character.job.ArcherService;
 import com.example.rpggame.character.CharacterService;
-import com.example.rpggame.character.SwordsmanService;
-import com.example.rpggame.character.WizardService;
+import com.example.rpggame.character.job.SwordsmanService;
+import com.example.rpggame.character.job.WizardService;
 
 import java.util.Scanner;
 

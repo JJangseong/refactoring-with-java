@@ -23,5 +23,17 @@ public class Wizard  extends Character {
         this.name = name;
         this.exp  = 0;
         this.level = 1;
+        this.job = "마법사";
+    }
+
+    @Override
+    public String toString() {
+        return "Wizard{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", level=" + level +
+                ", exp=" + exp +
+                ", job='" + job + '\'' +
+                '}';
     }
 }

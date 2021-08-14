@@ -23,5 +23,17 @@ public class Swordsman extends Character {
         this.name = name;
         this.exp  = 0;
         this.level = 1;
+        this.job = "검사";
+    }
+
+    @Override
+    public String toString() {
+        return "Swordsman{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", level=" + level +
+                ", exp=" + exp +
+                ", job='" + job + '\'' +
+                '}';
     }
 }
